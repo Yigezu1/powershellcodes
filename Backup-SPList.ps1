@@ -5,7 +5,7 @@
 
 $srcList = 'TestList1'
 $sourceSite = 'https://sharepoint.yoururl/sites/contosoteam'
-$outputFolder = "C:\Users\yigez\Documents\ListArchive"
+$outputFolder = "C:\yourfilelocation\ListArchive"
 $siteCols = @("Title","ID","DC","Owner","Users","WebUrl")
 
 # Connect to Sharepoint OnPrem
