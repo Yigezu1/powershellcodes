@@ -4,7 +4,7 @@
 #>
 
 $srcList = 'TestList1'
-$sourceSite = 'https://birhane.sharepoint.com/sites/contosoteam'
+$sourceSite = 'https://sharepoint.yoururl/sites/contosoteam'
 $outputFolder = "C:\Users\yigez\Documents\ListArchive"
 $siteCols = @("Title","ID","DC","Owner","Users","WebUrl")
 
